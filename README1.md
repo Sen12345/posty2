@@ -9,3 +9,5 @@
 #Use Auth middleware to regulate user likes i.e restricting duplicate likes by the same user, displaying total likes from all post belongs to the authenticated user.
 #configuring automatic email alert to a user when someone likes a posts that belongs to the user
 #Use debugbar to monitor http request/response
+For email alert to work, update the .env file with the relevant values for your email provider
+#If cloning this app, you will need to have laravel installed on your system. Please refer visit the documentation via this link: https://laravel.com/docs/8.x/installation/
